@@ -1,3 +1,3 @@
 # Learning about Version Control
 
-##Authors: Hongyang Zhang
+## Authors: Hongyang Zhang
